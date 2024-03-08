@@ -127,7 +127,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Necromancer71803/Necromancer71803/output/snake.svg" alt="Snake animation" />
 
 ###
 
