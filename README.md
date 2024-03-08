@@ -1,3 +1,9 @@
+
+<br clear="both">
+<div align="center">
+    <img align="center" height="300" src="https://giffiles.alphacoders.com/218/218953.gif"  />
+</div>
+
 <h1 align="left">Hey!...its me necro...the one who can control the source of life</h1>
 
 ###
@@ -130,8 +136,4 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-    <img align="center" height="300" src="https://giffiles.alphacoders.com/218/218953.gif"  />
-</div>
 ###
