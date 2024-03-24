@@ -8,7 +8,7 @@
 <!-- About Me -->
 <div style="max-width: 800px; margin: 0 auto;">
   <p align="justify">
-    Hey there, I'm Akash Sasikumar, a passionate Full Stack Web Developer on a mission to craft seamless digital experiences.
+    Hey there, I'm Amal Krishna M K, a passionate Full Stack Web Developer on a mission to craft seamless digital experiences.
     I specialize in both front-end and back-end development, creating user-friendly web solutions that leave a lasting impression.
     Currently pursuing my studies at SRMIST, I'm fully immersed in the world of programming, with a strong focus on Full Stack Web Development.
     Beyond the screen, you'll often find me exploring the intricacies of web applications, working on exciting projects, and diving headfirst into the realms of fintech and blockchain.
