@@ -67,7 +67,7 @@
 <p align="center">
   <a href="mailto:akashsasikumar47@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/akash-sasikumar47"><img
+  <a href="https://www.linkedin.com/in/amal-krishna-376b272b6/><img
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   
 </p>
