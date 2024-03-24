@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hey there, I'm Amal Krishna M k! 🚀</h1>
-<h3 align="center">Full Stack Web Developer | UI/UX Designer | Algorithmic Trader</h3>
+<h3 align="center">Devops Developer | Algorithmic Trader</h3>
 <p align="center">Welcome to my digital world, where technology meets creativity, and innovation knows no bounds.</p>
 
 <!-- About Me -->
