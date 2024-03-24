@@ -69,10 +69,7 @@
       src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/akash-sasikumar47"><img
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.facebook.com/AkashSasikumar47?mibextid=LQQJ4d">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook"></a>
-  <a href="https://instagram.com/akash__sasikumar?igshid=MjEwN2IyYWYwYw=="><img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
+  
 </p>
 
 
