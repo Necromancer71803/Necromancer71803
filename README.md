@@ -130,5 +130,8 @@
 <img src="https://raw.githubusercontent.com/Necromancer71803/Necromancer71803/output/snake.svg" alt="Snake animation" />
 
 ###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=Necromancer718038&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
