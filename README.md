@@ -131,8 +131,4 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="300" src="https://giffiles.alphacoders.com/218/218953.gif"  />
-
 ###
