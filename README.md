@@ -125,12 +125,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Necromancer71803&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=true&custom_title=My%20presence%20in%20life" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Necromancer71803/Necromancer71803/output/snake.svg" alt="Snake animation" />
-
-###
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Necromancer718038&icon=0&color=0)](https://visitcount.itsvg.in)
